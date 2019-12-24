@@ -1,0 +1,24 @@
+#parentdiv {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  /*background-color: #ac5;*/
+  border-radius: 150px;
+  margin-left: 41%;
+  margin-top:17%;
+  text-align: center;
+}
+
+.div2 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+}
